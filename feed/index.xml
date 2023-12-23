@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GavinWordPressTest</title>
+	<atom:link href="https://gavintryz.github.io/my-wordpress-test2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gavintryz.github.io/my-wordpress-test2</link>
+	<description></description>
+	<lastBuildDate>Sat, 23 Dec 2023 05:04:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Hello, again, world</title>
+		<link>https://gavintryz.github.io/my-wordpress-test2/2023/12/23/hello-again-world/</link>
+					<comments>https://gavintryz.github.io/my-wordpress-test2/2023/12/23/hello-again-world/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 05:04:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://gavintryz.github.io/my-wordpress-test2/?p=6</guid>
+
+					<description><![CDATA[i am once again, typing some stuff my boy bernie gentlemen]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote">
+<p>i am once again, typing some stuff</p>
+<cite>my boy bernie</cite></blockquote>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="750" height="920" src="https://gavintryz.github.io/my-wordpress-test2/wp-content/uploads/2023/12/flat750x1000075f.jpg" alt="" class="wp-image-8"/></figure>
+
+
+
+<p>gentlemen</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gavintryz.github.io/my-wordpress-test2/2023/12/23/hello-again-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://gavintryz.github.io/my-wordpress-test2/2023/12/20/hello-world/</link>
+					<comments>https://gavintryz.github.io/my-wordpress-test2/2023/12/20/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Wed, 20 Dec 2023 01:59:19 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://gavintryz.github.io/my-wordpress-test2/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gavintryz.github.io/my-wordpress-test2/2023/12/20/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
